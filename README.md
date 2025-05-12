@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Actualmente estudio Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey<br>🤝 Busco colaborar en proyectos open source de Flask y FastAPI para fortalecer mis habilidades en desarrollo backend  <br>🛠️ Estoy experimentando con despliegues en Azure y contenedores Docker  <br>🌱 Actualmente aprendiendo TypeScript <br>💬 Pregúntame sobre Python, algoritmos y estructuras de datos, o mi experiencia automatizando pipelines para logística médica  <br><br>
+🔭 I’m currently pursuing a degree in Computer Technologies Engineering at Tecnológico de Monterrey  
+🤝 I’m looking to collaborate on open source Flask and FastAPI projects to strengthen my backend development skills  
+🛠️ I’m experimenting with Azure deployments and Docker containers  
+🌱 I’m currently learning TypeScript  
+💬 Ask me about Python, algorithms and data structures, or my experience automating pipelines for medical logistics  
+
 
 
 ## 🌐 Socials:
@@ -21,4 +26,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArturoPaniagua-portfolio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+- **vitaSense-IOT**: An end-to-end IoT solution (hardware, software, and database) for continuous monitoring of heart rate, humidity, and body temperature, with backend integration via Azure Event Hubs.  
+- **Modelado-de-servicio-de-streaming**: A C++ simulation of a video-on-demand streaming service that lets users load content, filter by genre, and rate movies or series.  
+- **Virus-SARS-CoV-2-un-analisis-profundo**: An in-depth phylogenetic and comparative analysis of SARS-CoV-2 and related coronavirus genomic sequences across nine species, implemented in R.  
